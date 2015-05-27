@@ -1,0 +1,19 @@
+
+Commande (m pour l'aide): Commande d'action
+   e   étendue
+   p   partition primaire (1-4)
+Numéro de partition (1-4): Premier cylindre (1-15296, par défaut 1): Utilisation de la valeur par défaut 1
+Dernier cylindre, +cylindres or +taille{K,M,G} (1-15296, par défaut 15296): 
+Commande (m pour l'aide): Commande d'action
+   e   étendue
+   p   partition primaire (1-4)
+Numéro de partition (1-4): Premier cylindre (502-15296, par défaut 502): Utilisation de la valeur par défaut 502
+Dernier cylindre, +cylindres or +taille{K,M,G} (502-15296, par défaut 15296): Utilisation de la valeur par défaut 15296
+
+Commande (m pour l'aide): Numéro de partition (1-4): Code Hexa (taper L pour lister les codes): Type système de partition modifié de 1 à 82 (Linux swap / Solaris)
+
+Commande (m pour l'aide): Numéro de partition (1-4): 
+Commande (m pour l'aide): La table de partitions a été altérée!
+
+Appel de ioctl() pour relire la table de partitions.
+Synchronisation des disques.

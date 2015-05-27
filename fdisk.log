@@ -1,0 +1,40 @@
+
+Commande (m pour l'aide): Commande d'action
+   e   étendue
+   p   partition primaire (1-4)
+Numéro de partition (1-4): La partition 1 est déjà définie. La détruire avant de l'ajouter.
+
+Commande (m pour l'aide): Commande (m pour l'aide): +: commande inconnue
+Commande d'action
+   a   bascule le fanion d'amorce
+   b   éditer l'étiquette BSD du disque
+   c   basculer le fanion de compatibilité DOS
+   d   supprimer la partition
+   l   lister les types de partitions connues
+   m   afficher ce menu
+   n   ajouter une nouvelle partition
+   o   créer une nouvelle table vide de partitions DOS
+   p   afficher la table de partitions
+   q   quitter sans enregistrer les changements
+   s   créer une nouvelle étiquette vide pour disque de type Sun
+   t   modifier l'id de système de fichiers d'une partition
+   u   modifier les unités d'affichage/saisie
+   v   vérifier la table de partitions
+   w   écrire la table sur le disque et quitter
+   x   fonctions avancées (pour experts seulement)
+
+Commande (m pour l'aide): Commande d'action
+   e   étendue
+   p   partition primaire (1-4)
+Numéro de partition (1-4): La partition 2 est déjà définie. La détruire avant de l'ajouter.
+
+Commande (m pour l'aide): Commande (m pour l'aide): Commande (m pour l'aide): Numéro de partition (1-4): Code Hexa (taper L pour lister les codes): 
+Commande (m pour l'aide): Numéro de partition (1-4): 
+Commande (m pour l'aide): La table de partitions a été altérée!
+
+Appel de ioctl() pour relire la table de partitions.
+
+ATTENTION : la table de partitions n'a pas pu être relue : erreur 16 : Périphérique ou ressource occupé.
+Le noyau continue à utiliser l'ancienne table. La nouvelle sera utilisée
+lors du prochain démarrage ou après avoir exécuté partprobe(8) ou kpartx(8).
+Synchronisation des disques.
